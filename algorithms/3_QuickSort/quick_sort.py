@@ -4,7 +4,7 @@ def swap(a, b, arr):
     if a!=b:
         tmp = arr[a]
         arr[a] = arr[b]
-        arr[b] = tm
+        arr[b] = imp 
 
 def quick_sort(elements, start, end):
     if start < end:
